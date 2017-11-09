@@ -1,0 +1,102 @@
+{
+    "verbs" : {
+        "avoir" : { 
+            "to have" : "avoir", 
+            "i have" : "j'ai", 
+            "you have" : "tu as", 
+            "he/she has" : "il/elle a", 
+            "we have" : "nous avons", 
+            "you have*" : "vous avez", 
+            "they have" : "ils/elles ont" 
+            },
+        "être" : {
+            "to be" : "être",
+            "i am" : "je suis",
+            "you are" : "tu es",
+            "he/she is" : "il/elle est",
+            "we are" : "nous sommes",
+            "you are*" : "vous êtes",
+            "they are" : "ils/elles sont"
+        },
+        "aller" : {
+            "to go/feel/travel" : "aller",
+            "i go" : "je vais",
+            "you go" : "tu vas",
+            "he/she go" : "il/elle va",
+            "we go" : "nous avons",
+            "you go*" : "vous allez",
+            "they go:" : "ils/elles vont"
+        },
+        "s'appeler" : {
+            "to be named" : "s'appeler",
+            "my name is" : "je m'appelle",
+            "your name is" : "tu t'appelle",
+            "his/her name is" : "il/elle s'appelle",
+            "our name is" : "nous nous appellons",
+            "your name is*" : "vous vous appellez",
+            "his/her name is" : "ils/elles s'appellent"
+        },
+        "faire" : {
+            "to make" : "faire",
+            "i make" : "je fais",
+            "you make" : "tu fais",
+            "he/she makes" : "il/elle fait",
+            "we make" : "nous faisons",
+            "you make*" : "vous faites",
+            "they make" : "ils/elles font"
+        },
+        "frequency" : {
+            "always" : "toujours",
+            "often" : "souvent",
+            "sometimes" : "parfois, quelquefois",
+            "rarely" : "rarement",
+            "never" : "ne...jamais"
+        },
+        "like/hate": {
+            "love" : "adorer",
+            "like" : "aimer bien, apprécier",
+            "don't like" : "ne pas aimer, ne pas apprécier",
+            "detest" : "détester",
+            "prefer" : "préférer"
+        },
+        "possesive" : {
+            "my (mas.)" : "mon",
+            "my (fem.)" : "ma",
+            "my (mas./fem.)" : "mes",
+            "your (mas.)" : "ton",
+            "your (fem.)" : "ta",
+            "your (mas./fem.)" : "tes",
+            "his/hers (mas.)" : "son",
+            "his/hers (fem.)" : "sa",
+            "his/hers (mas./fem.)" : "ses",
+            "our (mas.)" : "notre",
+            "our (fem.)" : "notre",
+            "our (mas./fem.)" : "nos",
+            "your (mas.)*" : "yotre",
+            "your (fem.)*" : "votre",
+            "your (mas./fem.)*" : "vos",
+            "their (mas.)" : "leur",
+            "their (fem.)" : "leur",
+            "their (mas./fem.)" : "leurs"
+        }
+    },
+    "other" : {
+        "positions" : {
+            "to the left" : "à gauche",
+            "to the right" : "à droite",
+            "next to" : "à côté de",
+            "in front of" : "devant",
+            "behind" : "derrière",
+            "on/above" : "sur/dessus",
+            "under" : "sous/dessous",
+            "in" : "dans/dedans",
+            "in front of" : "en face de",
+            "between" : "entre",
+            "go up" : "monter",
+            "go down" : "descendre",
+            "enter" : "entrer",
+            "leave" : "sortir/partir",
+            "arrive" : "arriver"
+        }
+    }
+}
