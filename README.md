@@ -1,2 +1,2 @@
 # vocab-test
-Vocabulary test in the terminal :-)
+Vocabulary test in the terminal :-) (english/french)
