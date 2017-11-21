@@ -45,6 +45,105 @@
             "you make*" : "vous faites",
             "they make" : "ils/elles font"
         },
+        "pouvoir" : {
+            "to can" : "pouvoir",
+            "i can" : "je peux",
+            "you can" : "tu peux",
+            "he/she can" : "il/elle peut",
+            "we can" : "nous pouvons",
+            "you can*" : "vous pouvez", 
+            "they can" : "ils/elles peuvent"
+        },
+        "devoir" : {
+            "to must" : "devoir",
+            "i must" : "je dois",
+            "you must" : "tu dois",
+            "he/she must" : "il/elle doit",
+            "we must" : "nous devons",
+            "you must*" : "vous devez",
+            "they must" : "ils/elles doivent"
+        },
+        "attendre" : {
+            "to wait" : "attrendre",
+            "i wait" : "j'attends",
+            "you wait" : "tu attends",
+            "he/she waits" : "il/elle attend",
+            "we wait" : "nous attendons",
+            "you wait*" : "vous attendez",
+            "they wait" : "ils/elles attendent"
+        },
+        "répondre" : {
+            "to answer" : "répondre",
+            "i answer" : "je réponds",
+            "you answer" : "tu réponds",
+            "he/she answers" : "il/elle répond",
+            "we answer" : "nous répondons",
+            "you answer*" : "vous répondez",
+            "they answer" : "ils/elles répondent"
+        },
+        "choisir": {
+            "to choose" : "choisir",
+            "i choose" : "je choisis",
+            "you choose" : "tu choisis",
+            "he/she choose" : "il/elle choisit",
+            "we choose" : "nous choisissons",
+            "you choose*" : "vous choisissez",
+            "they choose" : "ils/elles choisissent"
+        },
+        "finir": {
+            "to finish" : "finir",
+            "i finish" : "je finis",
+            "you finish" : "tu finis",
+            "he/she finish" : "il/elle finit",
+            "we finish" : "nous finissons",
+            "you finish*" : "vous finissez",
+            "they finish" : "ils/elles finissent"
+        },
+        "prendre" : {
+            "to take" : "prendre",
+            "i take" : "je prends",
+            "you take" : "tu prends",
+            "he/she/one takes" : "il/elle/on prend",
+            "we take" : "nous prenons",
+            "you take*" : "vous prenez",
+            "they take" : "ils/elles prennent"
+        },
+        "sortir" : {
+            "to exit" : "sortir",
+            "i exit" : "je sors",
+            "you exit" : "tu sors",
+            "he/she/one exits" : "il/elle/on sort",
+            "we exit" : "nous sortons",
+            "you exit*" : "vous sortez",
+            "they exit" : "ils/elles sortent"
+        },
+        "partir" : {
+            "to go" : "partir",
+            "i go" : "je pars",
+            "you go" : "tu pars",
+            "he/she/one goes" : "il/elle/on part",
+            "we go" : "nous partons",
+            "you go*" : "vous partez",
+            "they go" : "ils/elles partent"
+        },
+        "vouloir" : {
+            "to want" : "vouloir",
+            "i want" : "je veux",
+            "you want" : "tu veux",
+            "he/she/one wants" : "il/elle/one veut",
+            "we want" : "nous voulons",
+            "you want*" : "vous voulez",
+            "they want" : "ils/elles veulent"
+        },
+        "savoir" : {
+            "to know" : "to know",
+            "i know" : "je sais",
+            "you know" : "tu sais",
+            "he/she/one knows" : "on sait",
+            "we know" : "nous savons",
+            "you know*" : "vous savez",
+            "they know" : "ils/elles savent"
+        },
         "frequency" : {
             "always" : "toujours",
             "often" : "souvent",
@@ -97,6 +196,36 @@
             "enter" : "entrer",
             "leave" : "sortir/partir",
             "arrive" : "arriver"
+        },
+        "numbers" : {
+           "1" : "un",
+           "2" : "deux",
+           "3" : "trois",
+           "4" : "quatre",
+           "5" : "cinq",
+           "6" : "six",
+           "7" : "sept",
+           "8" : "huit",
+           "9" : "neuf",
+           "10" : "dix",
+           "11" : "onze",
+           "12" : "douze",
+           "13" : "treize",
+           "14" : "quatorze",
+           "15" : "quinze",
+           "16" : "seize",
+           "17" : "dix-sept",
+           "18" : "dix-huit",
+           "19" : "dix-neuf",
+           "20" : "vingt",
+           "30" : "trente",
+           "40" : "quarante",
+           "50" : "cinquante",
+           "60" : "soixiante",
+           "70" : "soixante-dix",
+           "80" : "quatre-vingt",
+           "90" : "quatre-vingt-dix",
+           "100" : "cent"
         }
     }
 }

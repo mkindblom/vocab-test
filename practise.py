@@ -2,7 +2,8 @@ import sys, json
 
 def go():
     d = json.load(open("words.json"))
-    skip = {"verbs"}
+    #skip = {"verbs"}
+    skip = {}
     score = 0
     total = 0
     practise = [x for x in d if x not in skip]
@@ -14,7 +15,8 @@ def go():
                 total += 1
                 print('--->', v)
                 l = sys.stdin.readline().strip('\n')
-                if (l == k or l == ""):
+                alt = k.split(' ')
+                if (l == k or l == "" or (len(alt) > 1 and l == alt[1] and (alt[0] == 'ils/elles' or alt[0] == 'il/elle'))):
                     print (u'\U0001f604')
                     score += 1
                     score_part += 1
